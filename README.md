@@ -29,5 +29,17 @@ El sistema está contenerizado con **Docker**, por lo que se puede ejecutar sin 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/laravel-mongo-crud.git
+git clone https://github.com/rafaelzayetvc-dotcom/laravel-mongo-crud.git
    cd laravel-mongo-crud
+---
+
+## 🖼 Capturas
+
+**UI – Lista de pacientes**
+![UI Pacientes](docs/ui-list.png)
+
+**API – Respuesta JSON**
+![API Pacientes](docs/api-list.png)
+
+**Tests – PHPUnit pasando**
+![Tests](docs/tests.png)
